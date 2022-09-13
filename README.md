@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Eva. I'm a second year actuarial studies student at UNSW.
+- 👋 Hi, My name is Eva. I'm a final year actuarial studies student at UNSW.
 - 👀 I’m interested in ...
 
 - 📫 yiran.yuan@student.unsw.edu.au 
